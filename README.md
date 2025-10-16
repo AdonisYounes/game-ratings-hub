@@ -22,10 +22,6 @@ A dark-mode React app for managing and showcasing your favorite video games — 
 
 ---
 
-## 🖥️ Preview
-<img src="public/preview.png" width="700" alt="App preview">
-
----
 
 ## ⚙️ Tech Stack
 - **Frontend:** React (Vite)
@@ -38,5 +34,5 @@ A dark-mode React app for managing and showcasing your favorite video games — 
 
 ### 1️⃣ Clone the project
 ```bash
-git clone https://github.com/<your-username>/game-ratings-hub.git
+git clone https://github.com/<AdonisYounes>/game-ratings-hub.git
 cd game-ratings-hub
